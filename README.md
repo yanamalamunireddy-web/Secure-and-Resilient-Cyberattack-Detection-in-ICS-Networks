@@ -1,9 +1,9 @@
 # Secure-and-Resilient-Cyberattack-Detection-in-ICS-Networks
 Secure and Resilient Cyberattack Detection in ICS Networks
 
-===================================================================
+
 Hardware Setup and Implementation steps:
-====================================================================
+===============================================================
 To successfully run code on the Edge TPU Corel Dev Board, you need to follow several steps. Here’s a comprehensive guide to get your code up and running:
 1. Set Up and Boot the Board
       •	Gather requirements:
@@ -74,7 +74,7 @@ To successfully run code on the Edge TPU Corel Dev Board, you need to follow sev
             •	Mendel Development Tool Documentation:
             •	MDT Documentation
 
-=============================================================================================================
+
 Files attached :
 =============================================================================================================
 1. Hardware Implementation.zip
